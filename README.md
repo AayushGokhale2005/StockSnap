@@ -1,7 +1,6 @@
 # StockSnap - Finance Stock Tracker Chrome Extension
 
-![StockSnap Logo](./StockSnap.jpeg)
-
+[![Stock-Snap-Logo.jpg](https://i.postimg.cc/nz2hvkgG/Stock-Snap-Logo.jpg)](https://postimg.cc/7GC44gx5)
 ## Overview
 **StockSnap** is a Chrome extension designed to help users stay updated with real-time stock market trends and financial news. With an intuitive interface and concise news summaries, users can efficiently monitor stock performance and make informed decisions.
 
