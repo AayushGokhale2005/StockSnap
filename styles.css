@@ -1,0 +1,69 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #1a1a1a, #3d5afe, #bb86fc); /* Gradient background */
+    color: #ffffff; /* Text color */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header Styles */
+.header {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+    margin-bottom: 20px; /* Space below the header */
+}
+
+.logo {
+    width: 80px; /* Adjust as needed */
+    height: 80px; /* Adjust as needed */
+    border-radius: 50%; /* Circular logo */
+    border: 5px solid black; /* Black border around the logo */
+    margin-right: 10px; /* Reduced space between logo and title */
+}
+
+h1 {
+    text-align: center;
+    color: #3d5afe;
+    padding: 5px 10px; /* Padding around the text for spacing */
+    border-radius: 5px; /* Rounded corners for the title */
+}
+
+.box {
+    background-color: rgba(30, 30, 30, 0.8); 
+    border-radius: 15px; 
+    padding: 20px;
+    margin: 20px 0;
+    transition: transform 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
+}
+
+.box:hover {
+    transform: scale(1.05); 
+}
+
+#stock-forecast {
+    border: 2px solid #bb86fc; 
+}
+
+
+#stock-news {
+    border: 2px solid #3d5afe; 
+}
+
+.box h3 {
+    color: #3d5afe; }
+
+
+a {
+    color: #bb86fc; 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; 
+}

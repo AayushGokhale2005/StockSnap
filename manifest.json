@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Stock Snap",
+    "version": "1.0",
+    "description": "A finance stock tracker extension.",
+    "icons": {
+        "16": "StockSnapLogo.jpeg",
+        "48": "StockSnapLogo.jpeg",
+        "128": "StockSnapLogo.jpeg"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "StockSnapLogo.jpeg"
+    },
+    "permissions": []
+}
